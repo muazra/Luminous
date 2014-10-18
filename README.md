@@ -1,4 +1,7 @@
 Luminous
 ========
 
-Flashlight application for Android. Implements the LED flash feature. Simple, fast, and does the job!
+Flashlight application for Android. <br>
+Toggles the torch on back of phone.
+
+Version 1.0.
